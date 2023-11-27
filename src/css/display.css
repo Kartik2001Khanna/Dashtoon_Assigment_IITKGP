@@ -1,0 +1,9 @@
+/* DisplayArea.css */
+@import "./index.css";
+
+.display-area {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 20px;
+}
