@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Open+Sans:wght@300&family=Roboto:wght@300&display=swap");
+
+/* CSS Resets */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+}
+
+body {
+  font-family: "Lora", serif;
+  background-color: rgb(170, 222, 97); /* Light gray background color */
+  scroll-behavior: smooth;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.app-header {
+  background-color: #26629e; /* Dark blue background color */
+  color: #ecf0f1;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+/* Add any additional styling as needed */
